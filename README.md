@@ -21,4 +21,4 @@ This project uses **Streamlit** for creating a simple yet interactive user inter
 - **Pandas**: Data manipulation and analysis library.
 - **NumPy**: Numerical computing library for data operations.
 - **scikit-learn**: Machine learning library for data preprocessing, similarity calculations, and building recommendation models.
-- **Cosine Similarity**: Used for calculating the similarity between food items based on nutritional information.![image](https://github.com/user-attachments/assets/23876812-acf5-4d1f-979e-0fbecc7902c1)
+- **Cosine Similarity**: Used for calculating the similarity between food items based on nutritional information.
